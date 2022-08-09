@@ -1,3 +1,10 @@
+# Input Format:
+#     The first line contains the integer, `N`.
+#     The next `N` lines each contain a line of the text.
+
+# Output Format:
+#     Output the modified text.
+    
 import re
 
 n = int(input())
